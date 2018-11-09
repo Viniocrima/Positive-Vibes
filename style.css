@@ -1,0 +1,30 @@
+html, body{
+	height:100%;
+	background: #000000 
+}
+body{
+	display:flex;
+}
+p{
+	margin: auto;
+	font-family: 'Orbitron';
+	font-size:2em;
+	color:#000000;
+}
+
+i {
+	font-size: 175px;
+	margin: 0 auto;
+	color: #FFFF0A
+
+}
+
+iframe {
+	height: 100%;
+	width: 100%;
+}
+
+.video{
+	height: 1px;
+	width: 1px;
+}
